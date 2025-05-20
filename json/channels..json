@@ -1,0 +1,92 @@
+[
+    {
+        "name": "5 Plus (480p)",
+        "image_url": "https://i.imgur.com/4EHL2mH.png",
+        "streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8",
+        "status": true
+    },
+    {
+        "name": "Channel 7 (720p)",
+        "image_url": "https://i.imgur.com/7xHSikv.png",
+        "streaming_url": "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8",
+        "status": true
+    },
+    {
+        "name": "Channel 7 (480p)",
+        "image_url": "https://i.imgur.com/7xHSikv.png",
+        "streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8",
+        "status": true
+    },
+    {
+        "name": "Channel K (720p)",
+        "image_url": "https://i.imgur.com/6PqxuhF.png",
+        "streaming_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
+        "status": true
+    },
+    {
+        "name": "FORTUNE TV (720p)",
+        "image_url": "https://i.imgur.com/MM5evnD.png",
+        "streaming_url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+        "status": true
+    },
+    {
+        "name": "Maharbawdi (720p)",
+        "image_url": "https://i.imgur.com/lV7WEVs.png",
+        "streaming_url": "https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
+        "status": true
+    },
+    {
+        "name": "Mahar TV (720p)",
+        "image_url": "https://i.imgur.com/ig0QECf.png",
+        "streaming_url": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+        "status": true
+    },
+    {
+        "name": "MCS (720p)",
+        "image_url": "",
+        "streaming_url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8",
+        "status": true
+    },
+    {
+        "name": "MITV (480p)",
+        "image_url": "https://i.imgur.com/ClmWqE5.png",
+        "streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8",
+        "status": true
+    },
+    {
+        "name": "MN TV (720p)",
+        "image_url": "https://i.imgur.com/nssm7QK.png",
+        "streaming_url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+        "status": true
+    },
+    {
+        "name": "MRTV (720p)",
+        "image_url": "https://i.imgur.com/uyv7oJH.png",
+        "streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8",
+        "status": true
+    },
+    {
+        "name": "MRTV 4 (1080p)",
+        "image_url": "https://i.imgur.com/J4i1VBb.png",
+        "streaming_url": "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
+        "status": true
+    },
+    {
+        "name": "MRTV 4 (480p)",
+        "image_url": "https://i.imgur.com/J4i1VBb.png",
+        "streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8",
+        "status": true
+    },
+    {
+        "name": "MRTV Entertainment (480p)",
+        "image_url": "https://i.imgur.com/c9q6oT0.png",
+        "streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
+        "status": true
+    },
+    {
+        "name": "MRTV Parliament (480p)",
+        "image_url": "https://i.imgur.com/5eK8Bc4.png",
+        "streaming_url": "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8",
+        "status": true
+    }
+]
