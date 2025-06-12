@@ -1,0 +1,22 @@
+{
+    "telegram": "@appsuniversemm",
+    "phone": "+959403823332",
+    "phone_formatted": "(+95)9403823332",
+    "email": "appsuniversemm@gmail.com",
+    "facebook_page_id": "",
+    "facebook_page_url": "",
+    "is_advertise": true,
+    "ads_image_url": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/image/advertise.png?raw=true",
+    "ads_url": "https://flutter.dev/",
+    "apk_url": "https://github.com/appsuniversemm/exchange_gold_price_android/releases/download/exchange_gold_price_android/app-release.apk",
+    "play_store_mobile": "market://details?id=io.wifimap.wifimap",
+    "play_store_url": "https://play.google.com/store/apps/details?id=io.wifimap.wifimap",
+    "app_gallery_url": "https://appgallery.huawei.com/#/app/C114233435",
+    "ipa_url": "https://github.com/appsuniversemm/exchange_gold_price_ios/releases/download/exchange_and_gold_price_ios/exchange_and_gold_price_mm.mobileconfig",
+    "exe_url": "https://github.com/appsuniversemm/exchange_gold_price_window/releases/download/exchange_gold_price_window/ExchangeGoldPriceAppInstaller.exe",
+    "website": "https://exchange-gold-price.netlify.app/",
+    "get_apps_url": "https://global.app.mi.com/details?lo=ID&la=en_US&id=com.appsuniversemm.exchange_gold_price",
+    "telegram_mini_app": "@ExchangeGoldPriceMMBot",
+    "latest_version": "1.0.1",
+    "force_update": true
+}
