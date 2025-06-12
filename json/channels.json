@@ -21,7 +21,7 @@
         "name": "Channel K (720p)",
         "image_url": "https://i.imgur.com/6PqxuhF.png",
         "streaming_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
-        "status": true
+        "status": false
     },
     {
         "name": "FORTUNE TV (720p)",
@@ -45,7 +45,7 @@
         "name": "MCS (720p)",
         "image_url": "",
         "streaming_url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8",
-        "status": true
+        "status": false
     },
     {
         "name": "MITV (480p)",
@@ -57,7 +57,7 @@
         "name": "MN TV (720p)",
         "image_url": "https://i.imgur.com/nssm7QK.png",
         "streaming_url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
-        "status": true
+        "status": false
     },
     {
         "name": "MRTV (720p)",
