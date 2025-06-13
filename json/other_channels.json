@@ -229,7 +229,7 @@
                 "name": "WWE SmackDown",
                 "image_url": "",
                 "streaming_url": "",
-                "status": true
+                "status": false
             },
             {
                 "name": "World Billiards",
