@@ -1,7 +1,9 @@
 {
+    "telegram": "appsuniversemm",
     "is_advertise": true,
     "ads_image_url": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/image/advertise.png?raw=true",
     "ads_url": "https://flutter.dev/",
+    "app_logo": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/logo/appsuniverse.jpg?raw=true",
     "channels": [
         {
             "name": "5 Plus (480p)",
