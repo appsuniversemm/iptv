@@ -4,8 +4,5 @@
     "phone_formatted": "(+95)9403823332",
     "email": "appsuniversemm@gmail.com",
     "facebook_page_id": "",
-    "facebook_page_url": "",
-    "is_advertise": true,
-    "ads_image_url": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/image/advertise.png?raw=true",
-    "ads_url": "https://flutter.dev/"
+    "facebook_page_url": ""
 }
