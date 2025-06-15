@@ -4,6 +4,9 @@
     "ads_image_url": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/image/advertise.png?raw=true",
     "ads_url": "https://flutter.dev/",
     "app_logo": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/logo/appsuniverse.jpg?raw=true",
+    "service_name": "Exchange & Gold Price",
+    "service_url": "https://appsuniversemm.github.io/exchange-gold-price/",
+    "service_status": true,
     "other_channel": [
         {
             "title": "Entertainment",
