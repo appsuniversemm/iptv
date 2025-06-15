@@ -6,6 +6,7 @@
     "app_logo": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/logo/appsuniverse.jpg?raw=true",
     "latest_version": "1.0.1",
     "force_update": true,
+    "update_url": "https://play.google.com/store/apps/details?id=com.appsuniversemm.myanmar_tv",
     "channels": [
         {
             "name": "5 Plus (480p)",
