@@ -54,7 +54,7 @@
             "name": "MCS (720p)",
             "image_url": "",
             "streaming_url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8",
-            "status": false
+            "status": true
         },
         {
             "name": "MITV (480p)",
