@@ -5,8 +5,8 @@
     "ads_url": "https://flutter.dev/",
     "app_logo": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/logo/appsuniverse.jpg?raw=true",
     "service_name": "Exchange & Gold Price",
-    "service_image": "https://i.imgur.com/4EHL2mH.png",
-    "service_url": "https://appsuniversemm.github.io/exchange-gold-price/",
+    "service_image": "https://raw.githubusercontent.com/appsuniversemm/iptv/master/image/exchange_gold_price.jpg?raw=true",
+    "service_url": "https://exchange-gold-price.netlify.app/",
     "service_status": true,
     "other_channel": [
         {
